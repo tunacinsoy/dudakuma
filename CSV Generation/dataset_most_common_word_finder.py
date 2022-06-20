@@ -10,7 +10,7 @@ import string
 
 def main(argv):
     all_word_list = []
-    for file in glob.glob("BarisOzcan_Vtties/*.vtt"):
+    for file in glob.glob("VTT_FILES_PATH/*.vtt"):
         # subtitle has been downloaded succesfully
         ##### PROCESSING SUBTITLE FILE PART #####
         caption_list = []
