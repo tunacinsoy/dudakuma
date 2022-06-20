@@ -13,7 +13,8 @@ in this area.
 - For our current progress, we can state that our dataset consists of more than 12500 frames extracted from 522 different media files. 
 - In addition, our dataset has the capability of detecting approximately 102 Turkish words (including Turkish special characters) based on lip detection, extraction, and frame creation processes. 
 - For future work, our database content is completely ready for upcoming training purposes. We are planning to share and distribute our progress with developers who are ready and eager to work on lip-reading functionalities in Turkish.
-- For demo purposes or if you want to skip the dataset creation and working on algorithms, please reach us out. We will be happy to share our dataset.
+- The progress that we made has also a demo presentation on YouTube as a private video. To check that, you can reach us out.
+- If you want to skip the dataset creation and work on algorithms, please reach us out. We will be happy to share our dataset.
 
 ## Tech
 
