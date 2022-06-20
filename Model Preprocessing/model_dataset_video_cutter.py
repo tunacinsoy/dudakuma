@@ -7,6 +7,7 @@ import time
 ### this script will slice videos with taking input dataset csv and downloaded raw youtube videos should be same dir as with this script
 ### NOTE edit 'processes=44' field in line71 according to your CPU core number
 ### make sure ffmpeg executable is in the same directory as with this script and has exec permission OR change the path in line24
+### Change line55 according to your files path
 count_queue = mp.Queue()
 
 def get_unique_index_string(start_time):
@@ -51,7 +52,7 @@ if __name__ == '__main__':
     label_set = set()
     dataset_item_list = []
 
-    with open('./datasets/gecen_sene_dataset.csv') as csv_file:
+    with open('DATASET_CSV_PATH') as csv_file:
         csv_reader = csv.reader(csv_file, delimiter=',')
         for row in csv_reader:
             if row:
