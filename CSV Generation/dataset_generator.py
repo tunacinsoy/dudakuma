@@ -91,7 +91,7 @@ def main(argv):
     labelword9 = "istiyorum"
     labelword10 = "gerçekten"
     all_sentences_list = []
-    for file in glob.glob("BarisOzcan_Vtties/*.vtt"):
+    for file in glob.glob("PATH_OF_VTT_FILES/*.vtt"):
         # subtitle has been downloaded succesfully
         ##### PROCESSING SUBTITLE FILE PART #####
         file1 = open(file, 'r',encoding="utf-8")
