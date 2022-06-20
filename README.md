@@ -57,6 +57,14 @@ For preprocess applications...
 
 MIT
 
+## References
+
+• Assael, Y.M., Shillingford, B., Whiteson, S., de Freitas, N.: Lipnet: Sentence-
+level lipreading. Under submission to ICLR 2017, arXiv:1611.01599 (2016)
+
+• Yavuz, Z. (2007).Bilgisayarlı dudak okuma(Doctoral dissertation, Karadeniz
+Teknik Üniversitesi).
+
 
    [os]: <https://docs.python.org/3/library/os.html>
    [git-repo-url]: <https://github.com/tunacinsoy/dudakuma.git>
