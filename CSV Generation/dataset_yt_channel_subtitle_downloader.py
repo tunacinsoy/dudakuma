@@ -9,8 +9,8 @@ import re
 ### Get youtube api key and edit 'api_key' field below
 ### Edit 'chann_id' field below respective to your selected youtube channel's channel id(it can be extracted through viewving source page of youtube channel in browser)
 
-api_key = "AIzaSyDcc6sZ3nhgJnd4pRVM1afBQ9Gb3j2IKns"
-chann_id = "UC8d_E2QphtXAL-MloAhx77Q" # this is just an example, change according to your selected youtube channel
+api_key = "API_KEY"
+chann_id = "CHANNEL_ID" # change according to your selected youtube channel
 
 vid_url_list = []
 
